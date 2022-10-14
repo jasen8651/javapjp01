@@ -1,5 +1,4 @@
 package java007_class.answ.part01;
-
 public class MovieShop {
 	String name;
 	int price;
